@@ -1,0 +1,16 @@
+{
+  "name": "novo-exemplo",
+  "version": "1.0.0",
+  "description": "exemplo de cadastro",
+  "main": "index.js",
+  "scripts": {
+    "cy": "cypress open"
+  },
+  "author": "Aline Souza de Meneses",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.1.0",
+    "cypress": "^9.7.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  }
+}
